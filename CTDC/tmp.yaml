@@ -1,7 +1,7 @@
 section:
   - This is example without html
-  - 
-   This is example without html
+  - >
+    This is example without html
     <table style="width:100%">
     <tr>
       <th>Firstname</th>
