@@ -2,7 +2,6 @@ section:
   - This is example without html
   - >
     This is example with html
-    
     <table style="width:100%" border="1">
     <tr>
       <th>Firstname</th>
