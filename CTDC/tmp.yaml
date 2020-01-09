@@ -2,7 +2,7 @@ section:
   - This is example without html
   - >
     This is example without html
-    <table style="width:100%">
+    <table style="width:100%" border="1">
     <tr>
       <th>Firstname</th>
       <th>Lastname</th>
